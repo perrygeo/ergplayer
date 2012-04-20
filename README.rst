@@ -3,7 +3,9 @@ ergplayer
 
 A python tk interface to "play" erg files. 
 
-..img: screenshot.png
+
+.. image:: https://github.com/perrygeo/ergplayer/raw/master/screenshot.png
+   :align: left
 
 What are .erg files
 ********************
