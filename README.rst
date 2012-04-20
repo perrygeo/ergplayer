@@ -28,4 +28,4 @@ But it's up to you to check with your power meter and make sure you're following
 .. _Computrainer:   http://www.racermateinc.com/computrainer.asp
 .. _ErgDB: http://www.73summits.com/ergdb/index.php
 
-
+.. _test_data: https://github.com/perrygeo/ergplayer/tree/master/test_data
