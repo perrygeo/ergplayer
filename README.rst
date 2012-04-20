@@ -4,11 +4,12 @@ ergplayer
 A python tk interface to "play" erg files. 
 
 
+What are .erg files
+********************
+
 .. image:: https://github.com/perrygeo/ergplayer/raw/master/screenshot.png
    :align: right
 
-What are .erg files
-********************
 Erg files define a cycling workout by prescribing precise power outputs over time. It is a simple text file format commonly
 used by the popular `Computrainer`_. You can find a couple of examples in the `test_data`_ directory of this project. 
 
